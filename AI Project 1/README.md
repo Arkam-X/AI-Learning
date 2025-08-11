@@ -18,7 +18,6 @@ It’s not just a chatbot – it’s a **conversation engine** that leverages th
 
 ## ⚡ Features
 ✅ **Conversational AI** – Engages in natural, human-like conversations  
-✅ **Context Memory** – Remembers previous interactions for better responses  
 ✅ **Custom Prompting** – Tailors responses to specific needs  
 ✅ **Secure API Key Handling** – No hard-coded keys, all managed via `.env`  
 ✅ **Lightweight & Fast** – Runs entirely in the terminal without heavy dependencies  
