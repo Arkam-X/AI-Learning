@@ -48,7 +48,6 @@ The purpose of this repo is to:
 
 ## 📬 Connect With Me
 If you’re also on the AI learning path or have ideas for collaboration, feel free to connect!  
-*(Add your contact info or GitHub profile link here)*
 
 ---
 
@@ -56,4 +55,5 @@ If you’re also on the AI learning path or have ideas for collaboration, feel f
 This repo is a **work in progress** — it will evolve as my AI journey continues. 🚀
 
 ---
+
 
